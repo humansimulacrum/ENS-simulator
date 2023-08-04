@@ -5,7 +5,7 @@ ENS name is generated using combination of two words from dictionary.
 Steps to start the code:
 
 - Install Node.js if you don't have one (could be checked using `node -v` command)
-- Create file eth_privates.txt with your private keys
+- Create file `eth_privates.txt` with your private keys
 - Run `npm install` to install packages
 - Run `npm run start` to start the code
 
